@@ -1,0 +1,19 @@
+* {
+	box-sizing: border-box;
+}
+
+html,body {
+	background-image: url(https://images6.alphacoders.com/322/thumb-1920-322791.jpg);
+}
+
+.jumbotron, .panel-body{
+	background-color: #ff7f7f;
+}
+
+.panel-title{
+	background-color: white;
+}
+
+.choices{
+	background-color: lightgrey;
+}
